@@ -6,8 +6,7 @@
         "freeTrialUrl": "mailto:ART-Demo@microfocus.com",
         "demoRequestUrl": "",
         "supportLinkUrl": "https://www.microfocus.com/en-us/support/Adoption%20Readiness%20Tool%20(ART)",
-        "communityLinkUrl": "",
-        "comminutyLinkUrl": "https://community.microfocus.com/welcome_to_the_community/adoption-readiness-tool/"
+        "communityLinkUrl": "https://community.microfocus.com/welcome_to_the_community/adoption-readiness-tool/"
     },
     {
         "productName": "ALM / Quality Center",
@@ -52,8 +51,7 @@
         "freeTrialUrl": "https://www.microfocus.com/en-us/products/arcsight-recon/free-trial",
         "demoRequestUrl": "",
         "supportLinkUrl": "https://www.microfocus.com/en-us/support/ArcSight%20Recon",
-        "communityLinkUrl": "",
-        "comminutyLinkUrl": "https://community.microfocus.com/cyberres/arcsight/"
+        "communityLinkUrl": "https://community.microfocus.com/cyberres/arcsight/"
     },
     {
         "productName": "Asset Management X",
@@ -89,8 +87,7 @@
         "freeTrialUrl": "https://www.microfocus.com/en-us/products/data-protector-backup-recovery-software/free-trial",
         "demoRequestUrl": "https://www.microfocus.com/en-us/products/data-protector-backup-recovery-software/request-demo",
         "supportLinkUrl": "https://www.microfocus.com/en-us/support/Data%20Protector",
-        "communityLinkUrl": "",
-        "comminutyLinkUrl": "https://community.microfocus.com/img/bandr/"
+        "communityLinkUrl": "https://community.microfocus.com/img/bandr/"
     },
     {
         "productName": "Data Protector for Cloud Workloads",
@@ -108,8 +105,7 @@
         "freeTrialUrl": "https://www.microfocus.com/products/dimensions-rm/trial/",
         "demoRequestUrl": "",
         "supportLinkUrl": "https://www.microfocus.com/en-us/support/Dimensions%20RM",
-        "communityLinkUrl": "",
-        "comminutyLinkUrl": "https://community.microfocus.com/adtd/dimensionsrm/"
+        "communityLinkUrl": "https://community.microfocus.com/adtd/dimensionsrm/"
     },
     {
         "productName": "Enterprise Suite",
@@ -127,8 +123,7 @@
         "freeTrialUrl": "",
         "demoRequestUrl": "https://www.microfocus.com/en-us/products/filr/request-demo",
         "supportLinkUrl": "https://www.microfocus.com/en-us/support/Filr",
-        "communityLinkUrl": "",
-        "comminutyLinkUrl": "https://community.microfocus.com/collaboration/filr/"
+        "communityLinkUrl": "https://community.microfocus.com/collaboration/filr/"
     },
     {
         "productName": "Fortify on Demand",
@@ -137,8 +132,7 @@
         "freeTrialUrl": "https://www.microfocus.com/en-us/products/application-security-testing/free-trial",
         "demoRequestUrl": "https://www.microfocus.com/en-us/products/application-security-testing/request-demo",
         "supportLinkUrl": "https://www.microfocus.com/en-us/support/Fortify%20on%20Demand",
-        "communityLinkUrl": "",
-        "comminutyLinkUrl": "https://community.microfocus.com/cyberres/fortify/"
+        "communityLinkUrl": "https://community.microfocus.com/cyberres/fortify/"
     },
     {
         "productName": "Fortify WebInspect",
@@ -147,8 +141,7 @@
         "freeTrialUrl": "",
         "demoRequestUrl": "https://www.microfocus.com/en-us/products/webinspect-dynamic-analysis-dast/request-demo",
         "supportLinkUrl": "https://www.microfocus.com/en-us/support/Fortify%20WebInspect",
-        "communityLinkUrl": "",
-        "comminutyLinkUrl": "https://community.microfocus.com/cyberres/fortify/"
+        "communityLinkUrl": "https://community.microfocus.com/cyberres/fortify/"
     },
     {
         "productName": "HCMX FinOps Express",
@@ -175,8 +168,7 @@
         "freeTrialUrl": "",
         "demoRequestUrl": "https://www.microfocus.com/en-us/products/information-data-analytics-idol/request-demo",
         "supportLinkUrl": "https://www.microfocus.com/en-us/support/IDOL",
-        "communityLinkUrl": "",
-        "comminutyLinkUrl": "https://community.microfocus.com/t5/IDOL/ct-p/IDOL"
+        "communityLinkUrl": "https://community.microfocus.com/t5/IDOL/ct-p/IDOL"
     },
     {
         "productName": "Law Enforcement Media Analysis",
@@ -329,8 +321,7 @@
         "freeTrialUrl": "",
         "demoRequestUrl": "https://www.microfocus.com/en-us/products/retain-unified-archiving/request-demo",
         "supportLinkUrl": "https://www.microfocus.com/en-us/support/Retain%20Unified%20Archiving",
-        "communityLinkUrl": "",
-        "comminutyLinkUrl": "https://community.microfocus.com/t5/Retain/ct-p/Retain"
+        "communityLinkUrl": "https://community.microfocus.com/t5/Retain/ct-p/Retain"
     },
     {
         "productName": "Server Automation",
@@ -465,8 +456,7 @@
         "freeTrialUrl": "https://www.microfocus.com/products/cloud-email-encryption/free-trial",
         "demoRequestUrl": "",
         "supportLinkUrl": "https://www.microfocus.com/en-us/support/Voltage%20SecureMail",
-        "communityLinkUrl": "",
-        "comminutyLinkUrl": "https://community.microfocus.com/t5/Voltage/ct-p/Voltage"
+        "communityLinkUrl": "https://community.microfocus.com/t5/Voltage/ct-p/Voltage"
     },
     {
         "productName": "Voltage SecureMail Cloud",

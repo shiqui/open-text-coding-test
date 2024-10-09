@@ -52,7 +52,7 @@ def scrape_cards(url: str, timeout: int = 5) -> str:
             elif text == "Request a demo" and href:
                 product_json["demoRequestUrl"] = href
             elif text == "Community" and href:
-                product_json["comminutyLinkUrl"] = href
+                product_json["communityLinkUrl"] = href
             elif text == "Support" and href:
                 product_json["supportLinkUrl"] = href
         result.append(product_json)
