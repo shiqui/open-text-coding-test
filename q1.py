@@ -1,4 +1,12 @@
-def make_triangle(M: int = 3, N: int = 4) -> None:
+def make_triangle() -> None:
+    """
+    Asumptions:
+    The triangle is right-angled, made of asterisks, and aligned to the left.
+    """
+    [print("*" * int(4 * row_index / 3)) for row_index in range(1, 3 + 1)]
+
+
+def bonus(M: int, N: int) -> None:
     """
     This function prints a right-angled triangle of height M and width N, defaults to M=3 and N=4.
     The triangle is made of asterisks, and aligns to the left.
@@ -11,4 +19,4 @@ def make_triangle(M: int = 3, N: int = 4) -> None:
 
 
 if __name__ == "__main__":
-    make_triangle(3, 4)
+    make_triangle()
